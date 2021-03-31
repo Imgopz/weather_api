@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# defining libraries
+# importing libraries
 import requests
 
 # variables
