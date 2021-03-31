@@ -6,7 +6,7 @@ import requests
 # variables
 api_url = 'https://api.openweathermap.org/data/2.5/weather?q=Philadelphia,Pennsylvania,UnitedStates&appid=1c2ec9787e31a8befd61e8caff833927'
 
-# api request
+# api request and loading JSON data
 json_data = requests.get(api_url).json() 
 
 # fetching and calculating temperature value and fetching humidity value from JSON result

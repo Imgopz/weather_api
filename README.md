@@ -1,5 +1,6 @@
 # weather_api
 
+## Using PyOWM Library
 Result:
 ![](result.gif)
 
@@ -7,7 +8,13 @@ Please install python3, pip3 and install pyowm
 
 PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs. It allows quick and easy consumption of OWM data from Python applications via a simple object model and in a human-friendly fashion.
 
-python3 weather.py
+script executed: python3 weather.py
+
+## Using direct api url request
+Result:
+![](result_api.gif)
+
+api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
 
 Example output:
 
