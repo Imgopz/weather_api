@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pyowm
 
 owm = pyowm.OWM('SECRET_API_KEY')
