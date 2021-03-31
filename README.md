@@ -12,4 +12,5 @@ Example output:
 Temperature: 16 °C | 61 °F  
 Humidity: 94 %  
 
+Result:
 ![](image_result.gif)
