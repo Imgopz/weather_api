@@ -8,9 +8,11 @@ python3 weather.py
 
 Example output:
 
-*********Philadlephia, Pennsylvania, United States*********  
-Temperature: 16 °C | 61 °F  
-Humidity: 94 %  
+*********Philadelphia, Pennsylvania, United States*********
 
+Temperature: 15 °C | 60 °F
+Humidity: 94 %
+
+*************************END*******************************
 Result:
-![](result_image.gif)
+![](result.gif)
