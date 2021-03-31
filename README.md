@@ -1,6 +1,8 @@
 # weather_api
 
 ## Using PyOWM Library
+### File name: weather.py
+
 Result:
 ![](result.gif)
 
@@ -11,13 +13,16 @@ PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs. It a
 script executed: python3 weather.py
 
 ## Using direct api url request
+### File name: weather_api.py
+
 Result:
 ![](result_api.gif)
 
 api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
 
-Example output:
+script executed: python3 weather_api.py
 
+### Example output:
 Philadelphia, Pennsylvania, United States   
 
 Temperature: 15 °C | 60 °F    
