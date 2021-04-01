@@ -5,7 +5,7 @@
 ## Using direct api url request
 ### File name: weather_api.py
 
-Result:  
+## Result:  
 ![](result_api.gif)
 
 api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={API key}
@@ -16,7 +16,7 @@ script executed: python3 weather_api.py
 ## Using PyOWM Library
 ### File name: weather.py
 
-Result:  
+## Result:  
 ![](result.gif)
 
 Please install python3, pip3 and install pyowm 
