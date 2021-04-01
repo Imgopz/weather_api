@@ -1,4 +1,5 @@
 # weather_api
+### Displaying live temperature and humidity at Philadelphia, Pennsylvania, United States.
 
 
 ## Using direct api url request
